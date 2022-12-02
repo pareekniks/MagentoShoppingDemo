@@ -1,0 +1,22 @@
+[INFO ] 2022-12-02 21:20:32.039 [main] UserTest - Generating one random user test started
+[INFO ] 2022-12-02 21:20:36.056 [main] UserTest - Saving alll the user information
+[INFO ] 2022-12-02 21:20:38.639 [main] UserTest - Checking registration link
+[INFO ] 2022-12-02 21:20:39.655 [main] UserTest - navigating to  registration link
+[INFO ] 2022-12-02 21:20:41.540 [main] UserTest - registring user
+[INFO ] 2022-12-02 21:20:47.641 [main] UserTest - Asserting user information
+[INFO ] 2022-12-02 21:20:48.297 [main] UserTest - Searching for product
+[INFO ] 2022-12-02 21:20:49.729 [main] UserTest - navigating to  product details page
+[INFO ] 2022-12-02 21:20:51.344 [main] UserTest - adding to cart the product
+[INFO ] 2022-12-02 21:20:52.070 [main] UserTest - performing the checkout
+[INFO ] 2022-12-02 21:21:17.831 [main] UserTest - After purchase verifying the product
+[INFO ] 2022-12-02 21:42:29.094 [main] UserTest - Generating one random user test started
+[INFO ] 2022-12-02 21:42:33.266 [main] UserTest - Saving all the user information
+[INFO ] 2022-12-02 21:42:35.997 [main] UserTest - Checking registration link
+[INFO ] 2022-12-02 21:42:37.129 [main] UserTest - navigating to  registration link
+[INFO ] 2022-12-02 21:42:39.194 [main] UserTest - registering the user
+[INFO ] 2022-12-02 21:42:43.926 [main] UserTest - Asserting user information
+[INFO ] 2022-12-02 21:42:44.983 [main] UserTest - Searching for product
+[INFO ] 2022-12-02 21:42:46.515 [main] UserTest - navigating to  product details page
+[INFO ] 2022-12-02 21:42:48.343 [main] UserTest - adding to cart the product
+[INFO ] 2022-12-02 21:42:49.137 [main] UserTest - performing the checkout
+[INFO ] 2022-12-02 21:43:15.006 [main] UserTest - After purchase verifying the product

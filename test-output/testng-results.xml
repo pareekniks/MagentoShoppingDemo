@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68454" started-at="2022-12-02T16:12:09Z" finished-at="2022-12-02T16:13:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68454" started-at="2022-12-02T16:12:09Z" finished-at="2022-12-02T16:13:17Z">
+      <class name="api.tests.UserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:api.tests.UserTest@7c83dc97]" name="setUp" is-config="true" duration-ms="19595" started-at="2022-12-02T16:12:09Z" finished-at="2022-12-02T16:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGetUser()[pri:1, instance:api.tests.UserTest@7c83dc97]" name="testGetUser" duration-ms="6036" started-at="2022-12-02T16:12:29Z" finished-at="2022-12-02T16:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method status="PASS" signature="verifyLandingPage()[pri:2, instance:api.tests.UserTest@7c83dc97]" name="verifyLandingPage" duration-ms="239" started-at="2022-12-02T16:12:35Z" finished-at="2022-12-02T16:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPage -->
+        <test-method status="PASS" signature="regiserUser()[pri:3, instance:api.tests.UserTest@7c83dc97]" name="regiserUser" duration-ms="7157" started-at="2022-12-02T16:12:37Z" finished-at="2022-12-02T16:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regiserUser -->
+        <test-method status="PASS" signature="buyProductandValidate()[pri:4, instance:api.tests.UserTest@7c83dc97]" name="buyProductandValidate" duration-ms="31748" started-at="2022-12-02T16:12:44Z" finished-at="2022-12-02T16:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyProductandValidate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:api.tests.UserTest@7c83dc97]" name="tearDown" is-config="true" duration-ms="352" started-at="2022-12-02T16:13:17Z" finished-at="2022-12-02T16:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- api.tests.UserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
